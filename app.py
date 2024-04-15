@@ -225,7 +225,7 @@ if selected == "Graduation Prediction":
     st.success(knn_diagnosis)
 
 
-# Diabetes Prediction Page
+# Graduation Prediction Page
 if selected == 'Analytical Intent':
 
     # page title
